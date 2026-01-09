@@ -1,0 +1,4 @@
+{
+    "command": "npm install && node generate_openapi.js",
+    "working_directory": "/home/kavia/workspace/code-generation/sharetoe-multiplayer-game-197083-197105/sharetoe_backend"
+}
